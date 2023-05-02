@@ -7,5 +7,4 @@ def create_app():
     from .auth import auth
     from .views import views
 
-
     return app
