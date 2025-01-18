@@ -1,0 +1,1 @@
+This project is aimed to show my abilities in python and sql programming. It consists in a simple graphical interface able to recorder accounting journal entries. To storage the data is necessary the support of a platform as XAMPP to create a local database to test the code locally. 
